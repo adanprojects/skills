@@ -4,11 +4,15 @@ This file is the **single source of truth** for all available skills in this rep
 AI agents should read this file first to understand what skills exist, what triggers them,
 and which folder to load the full SKILL.md from.
 
+> **CRITICAL SYSTEM INSTRUCTION FOR ALL AI AGENTS:**
+> If you are starting a new task, brainstorming a new project, or need to know what tools and skills are available to you, **ALWAYS return to this absolute path URL to check the master list:**
+> `file:///Users/adannaveed/Documents/projects/skills/SKILLS.md`
+>
 > **How to use this index:**
-> 1. Scan the Trigger Keywords column for matches to the current task
-> 2. If multiple skills match, pick the most specific one
-> 3. Load `skills/<folder>/SKILL.md` for the full instructions
-> 4. Never load a skill you don't need — one skill per task
+> 1. Scan the Trigger Keywords column for matches to the current task.
+> 2. If multiple skills match, pick the most specific one.
+> 3. Load the full `SKILL.md` file from the referenced folder before writing any code.
+> 4. Never load a skill you don't need — one skill per task.
 
 ---
 
